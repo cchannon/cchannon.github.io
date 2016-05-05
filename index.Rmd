@@ -1,7 +1,7 @@
 ---
 title       : Data Analytics Course Presentation
 subtitle    : Taxi pickup prediction service
-author      : John Lee
+author      : John Lee, Linda Lin, Charles Channon
 job         : Team Robo Yellow
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -14,14 +14,6 @@ knit        : slidify::knit2slides
 ## Objective
 
 Our team chose to address both a future and present market opportunity in analyzing route densities to project optimal pickup locations for taxis, ride sharing applications, or autonomous vehicle fleets. The objective was to develop an application which could, based on a current latitude and longitude for any such vehicle, return a destination (in longitude and latitude) which would optimize the balance between the value of the next fare and the expected cost of acquiring that fare.
-
---- .class #id 
-
-## Team
-
-1. Linda Lin - Project Manager
-2. John Lee - Product conceptual design and coordination
-3. Charles Channon - Developer
 
 --- .class #id 
 
